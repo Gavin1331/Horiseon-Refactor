@@ -10,3 +10,6 @@
 * added alt text for images
 * re-organized css to better match sections in html
 * fixed missing id to make menu link work correctly
+
+## Deployed Page
+### https://gavin1331.github.io/Horiseon-Refactor/#social-media-marketing
