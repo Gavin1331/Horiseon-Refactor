@@ -1,4 +1,3 @@
-![horiseon-screenshot](https://user-images.githubusercontent.com/92960748/154176855-ba78de7a-55ec-405b-bbb0-7158774d01c2.png)
 # Horiseon-Refactor
 
 ## Description
@@ -14,3 +13,6 @@
 
 ## Deployed Page
 ### https://gavin1331.github.io/Horiseon-Refactor/#social-media-marketing
+
+## Screenshot:
+![horiseon-screenshot](https://user-images.githubusercontent.com/92960748/154176855-ba78de7a-55ec-405b-bbb0-7158774d01c2.png)
